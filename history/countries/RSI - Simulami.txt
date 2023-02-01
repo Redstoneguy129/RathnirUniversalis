@@ -1,0 +1,18 @@
+government = monarchy
+government_rank = 3
+mercantilism = 25
+primary_culture = greek
+culture_group_union = byzantine
+religion = catholic
+technology_group = western
+
+1319.1.1 = {
+	monarch = {
+		name = "Zeno"
+		adm = 1
+		dip = 4
+		mil = 6
+		regent = no
+	}
+}
+

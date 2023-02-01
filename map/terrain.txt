@@ -1,0 +1,29 @@
+# 
+##################################################################
+### Terrain Categories
+###
+### Terrain types: plains, mountains, hills, desert, artic, forest, jungle, marsh, pti
+### Types are used by the game to apply certain bonuses/maluses on movement/combat etc.
+###
+### Sound types: plains, forest, desert, sea, jungle, mountains
+
+categories = {
+	ocean = {
+		color = { 255 255 255 }
+
+		sound_type = sea
+		is_water = yes
+
+		movement_cost = 1.0
+	}
+	
+	forest = {
+		color = { 86 124 27 }
+		
+		type = forest
+		sound_type = forest
+		
+		supply_limit = 2
+		movement_cost = 1.0
+	}
+}

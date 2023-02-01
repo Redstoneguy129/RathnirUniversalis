@@ -1,0 +1,15 @@
+#17 - kanji
+
+add_core = RSI
+owner = RSI
+controller = RSI
+culture = greek
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "kanji"
+is_city = yes
+discovered_by = western

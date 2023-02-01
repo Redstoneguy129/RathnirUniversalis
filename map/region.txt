@@ -1,0 +1,32 @@
+
+# A province can only belong to one region!
+
+# random_new_world_region is used for RNW. Must be first in this list.
+random_new_world_region = {
+}
+
+#TestRegion
+
+upper_region = {
+	areas = {
+		syltor_area
+        alone_area
+        alteniquia_area
+	}
+}
+
+lower_region = {
+	areas = {
+        sparwood_area
+        nieden_area
+	}
+}
+
+#Sea Regions
+
+sea_region = {
+	areas = {
+		top_sea_area
+        bottom_sea_area
+	}
+}
